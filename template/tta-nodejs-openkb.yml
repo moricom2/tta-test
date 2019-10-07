@@ -10,7 +10,7 @@ metadata:
     description: "An example Node.js application with no database. For more information\
       \ about using this template, including OpenShift considerations, see https://github.com/sclorg/nodejs-ex/blob/master/README.md."
     iconClass: "icon-nodejs"
-    openshift.io/display-name: "nodeJS openKB"
+    openshift.io/display-name: "TTA nodeJS openKB"
     openshift.io/documentation-url: "https://github.com/sclorg/nodejs-ex"
     openshift.io/long-description: "This template defines resources needed to develop\
       \ a NodeJS application, including a build configuration and application deployment\
