@@ -1,0 +1,1 @@
+"# docker pull moricom/centos7-vnc-git"
